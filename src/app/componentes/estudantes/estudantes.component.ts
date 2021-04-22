@@ -27,21 +27,21 @@ export class EstudantesComponent implements OnInit {
     },
     {
       id: '4',
-      nome: 'Igor, o Bala.',
+      nome: 'Igor',
       idade: '22',
       estado: 'solteiro'
     },
     {
       id: '5',
       nome: 'Matheus',
-      idade: '22, maluco?',
+      idade: '22',
       estado: 'solteiro'
     },
     {
       id: '6',
       nome: 'Jorge',
       idade: '24',
-      estado: 'psicopata maniaco doente filho do beiramar, o fernadinho'
+      estado: 'em crise'
     },
   ];
   constructor() { }
